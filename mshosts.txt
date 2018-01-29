@@ -1,3 +1,5 @@
+www.microsoft.com
+msdn.com
 skype.se
 skype.it
 skype.fr
