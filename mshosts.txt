@@ -39,6 +39,8 @@ bing.co.uk
 bing.co
 bingbar.com
 bingbar.net
+msftncsi.com
+www.msftncsi.com
 bingtoolbar.com
 hotmail.com
 hotmail.co.uk
