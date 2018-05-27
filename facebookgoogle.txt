@@ -894,8 +894,6 @@ fb.com
 newsroom.fb.com
 investor.fb.com
 
-
-other
 accounts.google.com
 mail.google.com
 gmail.com
@@ -911,7 +909,6 @@ plus.google.com
 goog.le
 youtu.be
 
-here's
 domains.googlesyndication.com
 video-stats.video.google.com
 4.afs.googleadservices.com
