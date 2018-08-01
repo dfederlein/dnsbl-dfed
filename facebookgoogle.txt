@@ -1010,7 +1010,6 @@ gp6.googleusercontent.com
 gp7.googleusercontent.com
 chart.apis.google.com
 
-from
 conversion-pixel.invitemedia.com
 analytics-api-samples.googlecode.com
 m1.2mdn.net
