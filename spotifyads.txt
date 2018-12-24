@@ -11,7 +11,6 @@ core.insightexpressai.com
 crashdump.spotify.com
 d2gi7ultltnc2u.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
-desktop.spotify.com
 doubleclick.net
 ds.serving-sys.com
 googleadservices.com
