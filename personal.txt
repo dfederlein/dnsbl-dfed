@@ -1,4 +1,6 @@
 metrics.plex.tv
 sourceforge.com
+sourceforge.net
+download.net
 download.com
 download.cnet.com
