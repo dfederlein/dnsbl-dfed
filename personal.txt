@@ -1,0 +1,4 @@
+metrics.plex.tv
+sourceforge.com
+download.com
+download.cnet.com
