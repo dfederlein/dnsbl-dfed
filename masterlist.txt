@@ -1,12 +1,13 @@
 ## Used to cull data from other lists
 
-
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/personal.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/scanners.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/hosts.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/facebook.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/fgoogle.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/mshosts.txt
+
 https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hostslist
 
 https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
