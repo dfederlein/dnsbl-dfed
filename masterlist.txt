@@ -16,6 +16,10 @@ https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 
+https://www.dshield.org/feeds/suspiciousdomains_Low.txt
+https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+https://www.dshield.org/feeds/suspiciousdomains_High.txt
+
 http://hosts-file.net/exp.txt
 http://hosts-file.net/emd.txt
 http://hosts-file.net/pup.txt
