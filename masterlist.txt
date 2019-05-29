@@ -61,3 +61,5 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 https://dbl.oisd.nl/
+
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
