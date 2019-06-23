@@ -1,22 +1,3 @@
-GeoIP Whitelist:
-
-Australia
-France
-Germany
-Ireland
-United Kingdom
-Canada
-United States
-Mexico
-New Zealand
-British Virgin Islands
-US Virgin Islands
-
-
-https://filterlists.com/
-
-DNSBL:
-
 https://dbl.oisd.nl/
 
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
