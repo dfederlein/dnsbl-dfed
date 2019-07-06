@@ -1,5 +1,6 @@
 metrics.plex.tv
 analytics.plex.tv
+news.provider.plex.tv
 sourceforge.com
 sourceforge.net
 download.net
