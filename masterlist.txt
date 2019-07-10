@@ -42,8 +42,6 @@ https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 
 https://mirror1.malwaredomains.com/files/justdomains
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-https://zeustracker.abuse.ch/blocklist.php?download=baddomains
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
