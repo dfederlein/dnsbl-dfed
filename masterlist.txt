@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 
 https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/CW_PS_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/LY_PS_DOMBL.txt
