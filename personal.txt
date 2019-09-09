@@ -6,3 +6,4 @@ sourceforge.net
 download.net
 download.com
 download.cnet.com
+use-application-dns.net
