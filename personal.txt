@@ -7,3 +7,4 @@ download.net
 download.com
 download.cnet.com
 one.one.one.one
+cloudflare-dns.com
