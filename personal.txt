@@ -9,3 +9,4 @@ download.cnet.com
 one.one.one.one
 cloudflare-dns.com
 trace.svc.ui.com
+ping.ui.com
