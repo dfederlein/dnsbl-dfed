@@ -10,3 +10,4 @@ one.one.one.one
 cloudflare-dns.com
 trace.svc.ui.com
 ping.ui.com
+dns9.quad9.net
