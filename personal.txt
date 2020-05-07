@@ -11,3 +11,5 @@ cloudflare-dns.com
 trace.svc.ui.com
 ping.ui.com
 dns9.quad9.net
+metrics.ubuntu.com
+popcon.ubuntu.com
