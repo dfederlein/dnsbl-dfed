@@ -1,3 +1,5 @@
+https://openphish.com/feed.txt
+
 https://dbl.oisd.nl/
 
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -6,7 +8,13 @@ https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 https://www.dshield.org/feeds/suspiciousdomains_High.txt
 
-https://jasonhill.co.uk/pfsense/ytadblock.txt
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/personal.txt
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/scanners.txt
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/hosts.txt
+
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/facebook.txt
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/google.txt
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/mshosts.txt
 
 https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hostslist
 
@@ -14,42 +22,28 @@ https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 
-https://hosts-file.net/exp.txt
-https://hosts-file.net/emd.txt
-https://hosts-file.net/pup.txt
-https://hosts-file.net/hjk.txt
-https://hosts-file.net/fsa.txt
-https://hosts-file.net/psh.txt
-https://hosts-file.net/pha.txt
-https://hosts-file.net/wrz.txt
-https://hosts-file.net/ad_servers.txt
-https://hosts-file.net/grm.txt
-https://hosts-file.net/mmt.txt
-https://hosts-file.net/hfs.txt
 
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 
-https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/CW_PS_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/LY_PS_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/TC_PS_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 
 https://mirror1.malwaredomains.com/files/justdomains
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/matomo.org-spammers/list.txt
+
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
 
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 
 https://block.energized.pro/unified/formats/domains.txt
