@@ -13,3 +13,48 @@ ping.ui.com
 dns9.quad9.net
 metrics.ubuntu.com
 popcon.ubuntu.com
+
+    ads.roku.com
+    amarillo.logs.roku.com
+    amoeba-plus.web.roku.com
+    austin.logs.roku.com
+    bryan.logs.roku.com
+    camden.logs.roku.com
+    cloudservices.roku.com
+    cooper.logs.roku.com
+    customer-feedbacks.web.roku.com
+    digdug-g2.logs.roku.com
+    digdug.logs.roku.com
+    display.ravm.tv
+    esp.logs.roku.com
+    giga.logs.roku.com
+    gilbert.logs.roku.com
+    griffin.logs.roku.com
+    hereford.logs.roku.com
+    i.ads.roku.com
+    identity-dev.ads.roku.com
+    identity.ads.roku.com
+    lagrange.logs.roku.com
+    liberty.logs.roku.com
+    littlefield.logs.roku.com
+    logs.roku.com
+    longview.logs.roku.com
+    midland.logs.roku.com
+    mobile.logs.roku.com
+    p.ads.roku.com
+    paolo.logs.roku.com
+    raps-perf.ravm.tv
+    raps.ravm.tv
+    ravm.tv
+    richmond.logs.roku.com
+    rollingwood.logs.roku.com
+    rxr.ravm.tv
+    samples.voice.cti.roku.com
+    scribe.logs.roku.com
+    sugarland.logs.roku.com
+    traces.sr.roku.com
+    track.sr.roku.com
+    tyler.logs.roku.com
+    victoria.logs.roku.com
+    windsor.logs.roku.com
+    wwwimg.roku.com
