@@ -57,4 +57,3 @@ tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
 wwwimg.roku.com
-metrics.ubuntu.com
